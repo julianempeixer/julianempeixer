@@ -1,4 +1,4 @@
-Olá! Sou Juliane 👩🏼‍💻
+## Olá! Sou Juliane 👩🏼‍💻
 
 Apaixonada pela área de desenvolvimento de produtos e gatos!
 
